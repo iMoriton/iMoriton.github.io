@@ -3,11 +3,11 @@
   <title>iMoriton的博客</title>
   <icon>https://www.gravatar.com/avatar/5e113555a2afd3c9baa0ce5430198735</icon>
   <subtitle>闲言碎语</subtitle>
-  <link href="https://imoriton/iMoriton.github.io/atom.xml" rel="self"/>
+  <link href="https://imoriton.github.io/atom.xml" rel="self"/>
   
-  <link href="https://imoriton/iMoriton.github.io/"/>
+  <link href="https://imoriton.github.io/"/>
   <updated>2020-09-20T08:06:41.803Z</updated>
-  <id>https://imoriton/iMoriton.github.io/</id>
+  <id>https://imoriton.github.io/</id>
   
   <author>
     <name>iMoriton</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://imoriton/iMoriton.github.io/2020/09/20/hello-world/"/>
-    <id>https://imoriton/iMoriton.github.io/2020/09/20/hello-world/</id>
+    <link href="https://imoriton.github.io/2020/09/20/hello-world/"/>
+    <id>https://imoriton.github.io/2020/09/20/hello-world/</id>
     <published>2020-09-20T08:06:41.803Z</published>
     <updated>2020-09-20T08:06:41.803Z</updated>
     

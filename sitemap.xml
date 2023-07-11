@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://imoriton.github.io/google90d150314b101d67.html</loc>
+    <loc>https://imoriton.github.io/posts/4a17b156.html</loc>
+    
+    <lastmod>2023-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://imoriton.github.io/posts/40f65e63.html</loc>
     
     <lastmod>2023-07-11</lastmod>
     
@@ -13,16 +22,16 @@
   <url>
     <loc>https://imoriton.github.io/posts/26878e67.html</loc>
     
-    <lastmod>2023-07-10</lastmod>
+    <lastmod>2023-07-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://imoriton.github.io/posts/40f65e63.html</loc>
+    <loc>https://imoriton.github.io/google90d150314b101d67.html</loc>
     
-    <lastmod>2023-07-10</lastmod>
+    <lastmod>2023-07-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -57,15 +66,6 @@
   
   <url>
     <loc>https://imoriton.github.io/categories/index.html</loc>
-    
-    <lastmod>2023-07-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://imoriton.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2023-07-07</lastmod>
     
